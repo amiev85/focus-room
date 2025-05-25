@@ -8,7 +8,7 @@ As a chronic procrastinator and computer science student, I wanted a tool that w
 - Help me focus for short bursts with others
   
 ## Live Demo
-[focusloop.vercel.app](https://focusloop.vercel.app) *(Coming soon)*
+*(Coming soon)*
 
 ## Intended Features
 - Join or create a shared focus room
